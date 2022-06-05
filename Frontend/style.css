@@ -1,0 +1,74 @@
+.top{
+    /* background-image: linear-gradient(45deg,#405de6,#5851db,#833ab4,#c13584,#e13063,#fd1d1d); */
+    background-image: linear-gradient(271deg,#a0e9ff 30%,#a162e8 50%,#f093b0 70%,#edca85 94%);
+    /* background-color: #E4F9F5; */
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 110px;
+}
+
+.bcloud{
+    position: absolute;
+}
+
+.tcloud{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+body{
+    margin: 0;
+    min-width: none;
+}
+.mainhead{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 3.5em;
+    letter-spacing: -1.5px;
+    line-height: 110%;
+    background: #121FCF;
+    background: -webkit-linear-gradient(to right, #121FCF 0%, #CF1512 100%);
+    background: -moz-linear-gradient(to right, #121FCF 0%, #CF1512 100%);
+    background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.para{
+    font-size: 1.25em;
+}
+.prof{
+    position: relative;
+    margin-top: 30px;
+    margin-left: 200px;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+} 
+
+.t1{
+    position: relative;
+    left: 100px;
+    bottom: 250px;
+    width: 500px;
+    margin: auto;
+}
+/* h2{
+    background: -webkit-linear-gradient(to right, #f9d5e5 0%, #eeac99 100%);
+    background: -moz-linear-gradient(to right, #f9d5e5 0%, #eeac99 100%);
+    background: linear-gradient(to right, #f9d5e5 0%, #eeac99 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+} */
+
+h2{
+    font-size: 2.25em;
+}
+.skill-row{
+    width: 50%;
+    text-align: center;
+}
+p{
+    overflow-wrap: break-word;
+}
